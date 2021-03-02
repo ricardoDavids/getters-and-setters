@@ -145,7 +145,7 @@ public class ContaBanco {
 	
 	public ContaBanco() {
 		this.saldo=0;            // 
-		//this.status=false;  // Se o status é falso é porque a conta não está aberta;
+		this.status=false;  // Se o status é falso é porque a conta não está aberta;
 		
 		
 	}
